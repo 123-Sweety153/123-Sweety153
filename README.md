@@ -1,19 +1,18 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am 123-Sweety153](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm123-Sweety153</h1>
+<h3 align="center">Learnig Frontent web Development </h3>
+<h4 align="center">Frontent Web Developer</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username123-Sweety153&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
-
+- 🔭 I’m currently Learning Frontent Web Development
 - 🌱 I’m currently learning Golang, Java, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
@@ -24,7 +23,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:123-Sweety153
 
 <h3 align="left">Connect with me:</h3>
 
