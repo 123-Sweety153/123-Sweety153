@@ -1,4 +1,4 @@
-![I am 123-Sweety153](https://avatars.githubusercontent.com/u/199792117?u=e5b926bcfe69743e4be8a3b5d86b61af84e58352&v=4&size=64)
+![I am 123-Sweety153](https://avatars.githubusercontent.com/u/199792117?s=96&v=4)
 <h1 align="center">Hi 👋, I'm 123-Sweety153 </h1>
 <h3 align="center"> Learnig Frontent Web Development</h3>
 <h4 align="center"> Frontent Web Development </h4>
