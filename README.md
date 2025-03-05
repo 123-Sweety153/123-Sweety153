@@ -1,4 +1,4 @@
-![I am 123-Sweety153(![image](https://github.com/user-attachments/assets/f85d16fe-17eb-4ec5-bd0f-b259b4693a08)
+![I am 123-Sweety153(![image](https://github.com/user-attachments/assets/f85d16fe-17eb-4ec5-bd0f-b259b4693a08https://github.com/settings/profile)
 )
 <h1 align="center">Hi 👋, I'm 123-Sweety153 </h1>
 <h3 align="center"> Learnig Frontent Web Development</h3>
