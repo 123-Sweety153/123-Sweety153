@@ -1,4 +1,7 @@
-![I am 123-Sweety153](![image](https://github.com/user-attachments/assets/d8e4ec12-ccb3-445c-a44b-b55dc409b535))
+![I am 123-Sweety153](![image]https://github.com/account)
+)
+![image](https://github.com/user-attachments/assets/3581e91b-1c5b-417e-b906-10c8b156fe4d)
+
 image](https://github.com/user-attachments/assets/809a0a65-e5d6-4793-8d4a-23a6a378ba75)
 <h1 align="center">Hi 👋, I'm 123-Sweety153 </h1>
 <h3 align="center"> Learnig Frontent Web Development</h3>
